@@ -1,0 +1,41 @@
+{
+  "G:\\git-repos\\battleship\\src\\main.js": {
+    "path": "G:\\git-repos\\battleship\\src\\main.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 3, "column": 22 },
+        "end": { "line": 3, "column": 26 }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": { "0": 1 },
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "b5a3999eeb1a45ec197f49609febfa927fa87cb9"
+  },
+  "G:\\git-repos\\battleship\\src\\app\\app.css": {
+    "path": "G:\\git-repos\\battleship\\src\\app\\app.css",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {},
+    "inputSourceMap": null,
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "52baa698c6dbbdbafa7b5b9bef1c9532852e6db7"
+  },
+  "G:\\git-repos\\battleship\\src\\app\\app.js": {
+    "path": "G:\\git-repos\\battleship\\src\\app\\app.js",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "22628dc905a1ae2f57202ed77e14fcdbddc93424"
+  }
+}
